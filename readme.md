@@ -17,7 +17,7 @@ O projeto reúne indicadores financeiros, análises de clientes, tipos de servi�
 ## Demonstrativo do Resultado do Exercício (DRE)
 
 <p align="center">
-  <img src="images/dre.png" width="900">
+  <img src="images/DRE.png" width="900">
 </p>
 
 ---
